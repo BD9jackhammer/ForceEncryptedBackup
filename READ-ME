@@ -1,0 +1,2 @@
+Force iOS to Encrypt backups such as Photos, Notes, and more. This profile creates a rule for iOS to follow and Force Encrypt your backup's when backing up iOS, iPadOS, macOS, or tvOS. Currently WatchOS is not working. Under "Restrictions" you can see that "Encrypted Backups enforced" are the only thing added in this profile. You can import the Profile via Apple Configurator or download the .mobileconfig file via github, or if you are on Windows you should use a 3rd-party software such was "3uTools, or iMazing" to import the profile.
+
